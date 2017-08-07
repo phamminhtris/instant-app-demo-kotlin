@@ -1,0 +1,5 @@
+<resources>
+    <string name="main_entry_text">This is the main entry</string>
+    <string name="open_permission_text">Go to Permission Module</string>
+    <string name="open_internet_text">Go to Internet Module</string>
+</resources>

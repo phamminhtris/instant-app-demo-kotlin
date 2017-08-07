@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="permission_request_entry">This Activity requests permission at runtime</string>
+    <string name="request_camera_permission_text">request camera</string>
+    <string name="request_location_permission_text">request location</string>
+    <string name="request_read_phone_number_text">request phone number</string>
+</resources>

@@ -1,0 +1,1 @@
+include ':mainmodule', ':app', ':base', ':instantapp', ':permissionmodule', ':internetmodule'
